@@ -15,8 +15,6 @@
 ## 🤖 Introduction
 This project is a clone of Apple's iPhone 15 Pro website, built using **React.js** and **TailwindCSS**. It showcases advanced animations and 3D model rendering using **GSAP (Greensock Animations)** and **Three.js**, giving users an immersive and engaging browsing experience.
 
-Join our vibrant **Discord community** of over **27k+ members** to discuss and get assistance on this project or similar development topics!
-
 ## ⚙️ Tech Stack
 | Technology            | Purpose                                           |
 |-----------------------|---------------------------------------------------|
@@ -71,6 +69,6 @@ Visit [http://localhost:5173](http://localhost:5173) in your browser to view the
 - Twitter - [@sarthak_sach69](https://www.twitter.com/sarthak_sach69)
 
 ## 🚀 More
-Stay tuned for upcoming features, enhancements, and more!
+Stay tuned for upcoming features, enhancements, and more! Would love to setup contributions in future if anyone is interested!!
 
 **Happy coding!** 😊🚀
